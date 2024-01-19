@@ -15,3 +15,21 @@ git log [returns history]
 
 git diff [check what has been added o terminal]
 git add . [add all files]
+
+
+git push origin main [upload to github]
+
+
+git tag v1.0 [creating a tag]
+git push origin v1.0 [uploading tag to github]
+
+
+git switch -b __BranchName__ [create a branch name]
+
+git switch main  [switcing branches]
+git switch feature1
+
+git branch [check active status of branch]
+
+
+//test in alfa

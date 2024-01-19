@@ -24,12 +24,17 @@ git tag v1.0 [creating a tag]
 git push origin v1.0 [uploading tag to github]
 
 
-git switch -b __BranchName__ [create a branch name]
+git switch -c __BranchName__ [create a branch name]
+or git checkout -b __BranchName__  [create a branch name]
 
 git switch main  [switcing branches]
 git switch feature1
 
 git branch [check active status of branch]
 
+git branch -d __BranchName__ [delete branch]
 
+[merge to main]
+git push origin main
+git merge __BranchName__ 
 //test in alfa final

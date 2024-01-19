@@ -3,9 +3,15 @@ git init -b main [ Create Local Repo in Main] [Dont use]
 git status [check status of git]
 
 git add __Filename__ [add to staging enviroment]
+git rm --cached pass.txt [opposite of add]
 
 
 git commit -m "__CommentHere__" [Use less bec. it maintain history]
 
 
 git log [returns history]
+
+
+
+git diff [check what has been added o terminal]
+git add . [add all files]

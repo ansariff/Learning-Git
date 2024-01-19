@@ -1,0 +1,11 @@
+git init [ Create Local Repo in Mater] [Dont use]
+git init -b main [ Create Local Repo in Main] [Dont use]
+git status [check status of git]
+
+git add __Filename__ [add to staging enviroment]
+
+
+git commit -m "__CommentHere__" [Use less bec. it maintain history]
+
+
+git log [returns history]
